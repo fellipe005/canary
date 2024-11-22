@@ -631,7 +631,7 @@ function Player:onGainExperience(target, exp, rawExp)
 			["Cloak of Terror"] = true,
 			["Courage Leech"] = true,
 			["Vibrant Phantom"] = true,
-		}
+		},
 	}
 
 	local monsterName = target:getName()
